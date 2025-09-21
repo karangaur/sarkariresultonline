@@ -352,6 +352,10 @@
         font-size: 20px;
     }
 
+    .title-desc {
+        font-size: 11px;
+    }
+
     /**NAV BAR DESIGN**/
 
     .navbar-container {
